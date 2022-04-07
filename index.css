@@ -1,0 +1,54 @@
+.img {
+    margin-top: 2%;
+    margin-left: 39%;
+}
+
+.search {
+    background-color: rgba(128, 128, 128, 0.219);
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.buttons {
+    margin-left: 43%;
+}
+
+.input-search {
+    width: 20%;
+    margin-left: 40%;
+}
+
+.ucu {
+    display: flex;
+}
+
+.bir {
+    margin-top: 3px;
+    width: 35%;
+    margin-left: 5%;
+    background-color: rgba(20, 219, 219, 0.918);
+    padding-top: 13px;
+}
+
+.iki {
+    margin-top: 3px;
+    width: 20%;
+    background-color: rgba(20, 219, 219, 0.918);
+}
+
+.uc {
+    margin-top: 3px;
+    width: 35%;
+    margin-right: 5%;
+    background-color: rgba(20, 219, 219, 0.918);
+}
+
+footer {
+    margin-top: 1%;
+    margin-left: 45%;
+}
+
+a {
+    color: blue;
+}

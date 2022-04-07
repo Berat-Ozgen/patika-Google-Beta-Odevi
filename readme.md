@@ -1,0 +1,1 @@
+# patika google beta ödevi
